@@ -2,7 +2,6 @@ package wxcrypto
 
 import (
 	"testing"
-	"fmt"
 )
 
 var wx, err = NewWxCrypto("abcdefghijklmnopqrstuvwxyz0123456789ABCDEFG", "wxb11529c136998cb6")

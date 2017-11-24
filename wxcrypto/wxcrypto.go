@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"errors"
 	"crypto/aes"
-	"go-wxcrypto/pkcs7"
+	"github.com/xialeistudio/go-wxcrypto/pkcs7"
 	"crypto/cipher"
 	"bytes"
 	"encoding/binary"
