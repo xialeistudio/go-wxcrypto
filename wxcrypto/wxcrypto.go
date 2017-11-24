@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"errors"
 	"crypto/aes"
-	"wxcrypto-demo/pkcs7"
+	"go-wxcrypto/pkcs7"
 	"crypto/cipher"
 	"bytes"
 	"encoding/binary"
